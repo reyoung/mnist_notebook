@@ -1,0 +1,8 @@
+mnist_vgg_model
+plot.png
+train.log
+*pyc
+.ipynb_checkpoints
+*.w0
+*.wbias
+*.bin
